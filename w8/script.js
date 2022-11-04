@@ -54,6 +54,6 @@ function Min() {
     }
     else {
         var antwoord = getal1 - getal2;
-        document.getElementById("antwoord").innerHTML = "Het antwoord is:" +  antwoord;
+
     }
 }
