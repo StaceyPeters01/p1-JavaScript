@@ -9,3 +9,5 @@ function Calculator(num,num2){
     console.log(answer);
     alert(answer);
 }
+
+
